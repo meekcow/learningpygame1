@@ -1,7 +1,7 @@
 # learningpygame1
 Small pygame program created with basic collision detection, game objects, and movement to learn pygame
 
-[![image](learningpygame1/losescreen.png)]
+![](https://github.com/meekcow/learningpygame1/blob/master/losescreen.PNG)
 
 ### Description
 You're venturing through life trying to dodge all the unpleasantries to reach your destination.
